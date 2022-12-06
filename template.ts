@@ -11,7 +11,7 @@ date: ${now}
 
 completed:
 
-- [ x ] ${now}
+- [x] ${now}
 
 undone:
 
